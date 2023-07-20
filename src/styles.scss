@@ -1,1 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+  background-color: rgb(26, 26, 26);
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 500;
+  font-size: larger;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

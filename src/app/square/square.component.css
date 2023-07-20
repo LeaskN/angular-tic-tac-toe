@@ -1,0 +1,19 @@
+button{
+  height: 100%;
+  width: 100%;
+  font-size: 100px;
+  border: 1px solid black;
+  transition: .3s ease-in-out;
+  border-radius: 4px;
+  background-color: rgb(255, 168, 255);
+}
+button:hover {
+  border-color: teal;
+  transform: scale(1.05);
+}
+.success{
+  background-color: salmon;
+}
+.info{
+  background-color: aqua;
+}

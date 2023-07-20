@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "tictactoeangular12391231": {
+      "hosting": {
+        "myapp": [
+          "tictactoeangular12391231"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "tictactoeangular12391231"
+  }
+}
