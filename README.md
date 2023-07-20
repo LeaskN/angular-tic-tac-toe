@@ -1,5 +1,10 @@
 # TicTacToe
 
+![tic-tac-toe-gif](https://user-images.githubusercontent.com/34516906/254961347-2b3671a3-f3b3-4908-bc0b-3adc71860813.gif)
+
+![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.4.
 
 ## Development server
