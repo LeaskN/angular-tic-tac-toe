@@ -1,4 +1,5 @@
 # TicTacToe
+* This was my first Angular application. Giving Angular a whirl just for fun after years of React development
 
 ![tic-tac-toe-gif](https://user-images.githubusercontent.com/34516906/254961347-2b3671a3-f3b3-4908-bc0b-3adc71860813.gif)
 
